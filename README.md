@@ -2,11 +2,9 @@
 Training For Login App
 Login Flow:
 
-Enter name, email, and password.
-Validate the input.
-Validate the user with face detection.
-Enter mother's name for validation.
-Display the home page. (beranda)
+1. Enter email and password.
+2. Validate the input.
+3. Display the home page. (beranda)
 
 
 
